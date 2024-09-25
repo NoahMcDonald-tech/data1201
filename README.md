@@ -7,3 +7,9 @@ Course is on data manipulation and use of the console.
 | Week 2 | Command Line Basics| - |
 | Week 3 | Working With Files | - |
 | Week 4 | Markdown | This Readme |
+
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
