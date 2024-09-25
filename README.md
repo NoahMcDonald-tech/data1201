@@ -3,7 +3,7 @@
 A repesitory for data1201 materials.
 Course is on data manipulation and use of the console.
 | Week   | Lab Topic          | Project     |
-| ----|----|-----|
+| ---- | ---- | ----- |
 | Week 1 | Starting Linux     | -           |
 | Week 2 | Command Line Basics| -           |
 | Week 3 | Working With Files | -           |
